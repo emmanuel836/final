@@ -1,0 +1,53 @@
+.same{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+}
+.one{
+    background-color: #13664f;
+    /*color: white;*/
+    /*display: block;*/
+}
+.two{
+    background-color: #43a593;
+    /*color: white;*/
+    /*display: inline-block;*/
+}
+.three{
+    background-color: #59243b;
+    /*color: white;*/
+    /*display: inline-block;*/
+}
+
+/*image floating with text*/
+.small{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/*.big{*/
+/*    float: right;*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    margin: 10px;*/
+
+/*}*/
+/*.master{*/
+/* */
+/*}*/
+header{
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+footer{
+    clear: left;
+    /*margin-top: 100px;*/
+    margin-left: 10px;
+    font-weight: bold;
+}
