@@ -1,3 +1,5 @@
 welcome to the last git session
 blue berry pie
+inclined disputes and resentment among relatives
 bridging gaps btn humans and animals
+
